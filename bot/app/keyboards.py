@@ -1,5 +1,9 @@
-from aiogram.types import (ReplyKeyboardMarkup, KeyboardButton,
-                           InlineKeyboardMarkup, InlineKeyboardButton)
+from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-from aiogram.utils.keyboard import InlineKeyboardBuilder
-
+def get_main_keyboard():
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text="🔥 Готов ответить на 3 вопроса! 🔥")],
+        ],
+        resize_keyboard=True
+    )
