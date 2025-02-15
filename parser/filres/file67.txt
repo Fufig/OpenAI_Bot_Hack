@@ -1,0 +1,101 @@
+🇷🇺  Русская версия>
+
+Product Developer
+
+Product Developers take full ownership of projects or features, tackling any obstacles to ensure delivery to production and adding measurable value to clients. They also hold team members accountable, removing those who do not take ownership or make excuses.
+
+AI Operations (Python, React.js)
+The Product Developer in AI Operations role involves leveraging Python, React.js, or no-code tools to automate processes across HR, Customer Success, and Task Management. This position offers the unique advantage of achieving targets more rapidly and transparently since your clients are also your colleagues.
+This role firs a character willing to roll sleeves and do operational job by his hands to pinpoint improvement opportunities through automation. For instance, you might assume the role of a customer support manager, interacting directly with clients for a week to identify routine tasks that can be transferred to a language model or algorithm.
+The ideal candidate will have prior hands-on experience in operational domains, such as Sales or Marketing, and is either transitioning into a development career or aspiring to climb to a COO or another C-level role, enriched with technical proficiency.
+Growth (Python, Node.js)
+As a Growth Product Developer specializing in Python and Node.js, your role will be pivotal in enabling token startups to utilize their tokens for funding community-led marketing initiatives, aimed at attracting new users. Additionally, you will assist crypto enthusiasts in learning about new technologies and earning rewards for their efforts to drive adoption.
+In this position, you will innovate and enhance the effectiveness of marketing strategies such as airdrops, giveaways, and trading competitions, and automate other marketing channels. Your responsibilities will include filtering out bot farms to ensure efficient budget use, designing new types of rewards, such as those for social media influence, and testing marketing activities to gather user feedback.
+This role is heavily data-driven, focusing on reducing Client Acquisition Costs, improving conversions and virality metrics, and analyzing social and on-chain data to prioritize token partnerships for growth activities. You will also work towards making the performance of growth managers transparent, ensuring that best practices are rewarded and less effective strategies are phased out.
+The ideal candidate should have experience developing Telegram bots, implementing gamification, or participating in Airdrops. While technical skills and experience are valued, we place a higher emphasis on character, which we believe is the essential foundation for acquiring and enhancing professional skills.
+
+
+Token Discovery Data (Python, PostgreSQL or DWH)
+As a Product Developer for Token Discovery, specializing in Python and database technologies like PostgreSQL or data warehousing, your role will be pivotal in enabling early adopters to identify and invest in promising tokens early, thereby supporting innovative ventures. You will simplify the access to detailed insights from on-chain data, social media mentions, and news, providing a deep understanding of each asset's potential. Furthermore, you will educate stakeholders about the technology, business potential, market dynamics, and even global macroeconomic trends. This educational aspect is vital for democratizing the capital markets, as increasing the number of informed stakeholders can help shape a better future.
+Your duties will involve aggregating and cleaning data to ensure its usability across various services. Tasks may include integrating new blockchain explorers, connecting with data aggregators, or extracting information from social media and news platforms.
+The ideal candidate will possess an analytical mindset and have robust experience with databases and Python. This position requires a candidate who can handle complex data with precision and translate technical information into actionable insights for investors.
+Token Discovery Interfaces Web (React.js), Android (Kotlin), IOS
+As a Product Developer specializing in  Token Discovery Interfaces  (one of Web (React.js), Android, and iOS), you will play a key role in crafting user-friendly digital platforms that make it easy for an international audience to discover new assets.
+Your responsibilities will include implementing recommendation systems similar to those used by Amazon, where user interests are analyzed to display the most relevant and promising assets. Additionally, you will ensure that users receive timely notifications about market events and news that are crucial for informed trading decisions.
+The core challenge of this role is to design interfaces that handle complex data yet remain simple and intuitive for users.
+This is a product-intensive role that demands rigorous testing of the features you develop, assessing their impact on user engagement metrics such as retention.
+You will be fully responsible for the features you develop, coordinating with backend teams and other departments to overcome any obstacles that arise during development.
+The ideal candidate is someone with a keen interest in trading—not gambling—who takes ownership of their work, tests thoroughly, and uses the products they develop. This role requires a proactive, dedicated individual who is committed to enhancing user experience and driving product success.
+Backend (Java)
+As a Backend Product Developer specializing in Java, you will play a crucial role in collaborating with multiple product development teams to facilitate the launch of new services. Your responsibilities will involve leveraging our microservice architecture to ensure that services are both reusable and maintainable while maintaining their independence and efficiency.
+You may also handle high-load tasks, such as scaling the throughput of our exchange’s matching engine or reducing the order roundtrip latency, which are critical for improving performance and user experience.
+The ideal candidate will have an outstanding academic record, holding a top GPA from a leading technical university in their region. This educational background is essential as it ensures a well-organized, top-down systemic approach to problem-solving. Additionally, candidates should have at least two years of experience with Java. This role is suited for someone who is technically proficient and adept at thinking through complex systems to deliver robust backend solutions.
+Trading (C#)
+As a Product Developer in Trading with a focus on C#, your role is to infuse vitality into the emerging capital markets by enhancing liquidity in order books. This ensures that traders can efficiently exchange assets with minimal slippage. Additionally, you will fortify the trading desk's capital by developing robust risk management systems designed to prevent directional bets and guard against potential arbitrage or manipulation.
+Your responsibilities will extend to aggregating liquidity across both centralized and decentralized exchanges, ensuring that Latoken provides the best liquidity and prices for the widest variety of assets. This is crucial for maintaining our status as the premier marketplace for altcoins.
+You will integrate new exchanges, implement smart order routing, and refine strategies for market-making assets that are not listed elsewhere. Furthermore, you will work to secure top positions in exchange ranking sites, enhancing our attractiveness to both traders and tokens considering listing with us.
+The ideal candidate understands that accurate pricing acts as the nervous system of the global economy. This role requires someone with practical trading experience and likely a background in quantitative finance or high-frequency trading (HFT). The candidate should be proficient to use stress for rapid problemsolving.
+
+Operations Developer
+
+As an Operations Developer, your role will involve hands-on management of various operational tasks, with a primary focus on enhancing efficiency through automation. You will play an active role in areas such as the Call Center, Customer Support, and CRM automation. Initially, you will directly engage in these operations, gaining a deep understanding of the processes. Following this, you will transition to automating these systems, and subsequently move on to execute, identify and transform other operational routines that have not yet been automated.
+
+This role offers significant career advancement opportunities. Within 3-6 months, you could be promoted to a Product Developer in AI Operations or choose to specialize in a specific unit and progress to become an Operations Executive.
+
+We prioritize hiring individuals who are eager to code and innovate, rather than those who prefer routine tasks. This approach ensures motivation to develop automation solutions and move away from the status quo.
+
+This position is ideal for those with an operational background who have begun learning coding due to a desire to shift their career towards development, or for those looking to leverage technology to advance to executive levels.
+
+
+
+Sales and CS
+
+Sales Jobs jobs page
+
+Operations Manager
+As a Sales Operations Manager, you will be responsible for hiring and promoting a disciplined, hardworking culture through a "sport culture" approach, leveraging up or out strategies. Your key responsibilities will include monitoring and controlling sales performance using a dashboard that highlights revenue or number of traders acquired per manager, alongside supporting metrics such as conversion rates, client acquisition costs, response times, overdue tasks, and Net Promoter Scores (NPS).
+You will oversee the quality assurance of communications and ensure that team leads conduct effective training sessions, equipped with well-prepared onboarding manuals that include scripts, tests, and role-playing exercises. Additionally, you will ensure that all systems function correctly and collaborate with Operations Developers to maintain transparency in workflows and problem-solving, while also safeguarding lead and client data from leaks.
+The ideal candidate for this position should have experience in CRM and sales operations, with the ability to enforce discipline among sales teams to adhere to processes. You should prioritize maximizing sales revenue while minimizing bureaucratic hurdles, which should be continuously simplified through automation to keep the sales team focused on building trust with clients.
+Sales Manager
+As a Sales Manager for Exchange Listings at Latoken, you are the investment banker of the new era, driving the democratization of capital markets through the "IPO" of pioneering assets. Your primary role involves building strong relationships with clients, understanding their needs, and demonstrating how listing with Latoken can alleviate their challenges related to token adoption and growth.
+Your responsibilities begin with intensive prospecting work, utilizing automation and advanced messaging sequences. You will be expected to quickly master these tools and techniques. Once you achieve excellence in generating hot leads, you will shift focus towards closing deals. As you become more familiar with the business models of tokens, marketing channels, and startup needs, you will develop into a trusted and insightful advisor, capable of immediately adding value to our clients.
+Progression in this role includes the opportunity to hire, train, and supervise a team, ensuring discipline, commitment, and hard work, as you delegate the origination of hot leads to your subordinates. You will be prioretising revenue numbers while caring about sustainable processes improvement, and protecting the reputaion of Latoken.
+The ideal candidate will have a proven track record in sales, proficiency in modern prospecting and sales management tools, and a solid understanding of the cryptocurrency landscape. Experience with token listings or advisory roles in the crypto sector is highly beneficial. This position is perfect for those who thrive in a fast-paced, wartime culture environment and are committed to transforming the financial landscape.
+Growth Manager
+As a Growth Manager at our crypto exchange, you will be pivotal in selling and managing growth activities for startups, helping them acquire traders by utilizing their tokens as rewards for community marketing efforts.
+In this role, you will manage a portfolio of tokens, building trust with token project executives and integrating recurring activities into their marketing strategies. Your focus will be on structuring tasks and designing activities that minimize client acquisition costs while ensuring our traders are introduced to promising tokens with strong teams, technology, and communities.
+Your performance metrics will include the number of traders acquired, from which you will earn significant bonuses, as well as the number and scope of activities, budgets, and client acquisition costs. You will prepare reports to analyze successes and failures, guiding our focus towards the most potent tokens and continually refining our growth strategies for both the tokens and our traders.
+As you demonstrate success in this role, you will have the opportunity to grow into a leadership position, hiring and training your own team of growth managers.
+The ideal candidate will have a background in marketing, sales, or account management, with a strong understanding of current crypto trends. This role is suited for someone who thrives in a dynamic, wartime culture environment and is passionate about leveraging crypto innovations to drive growth and market expansion.
+Customer Success
+As a Customer Success Manager at our crypto exchange, you will be integral in resolving client issues and addressing their needs.
+Your role involves problem-solving across various units to fix bugs and enhance products and processes, thereby making clients' experiences with our services both easier and more productive.
+This position serves as a foundation for gaining basic knowledge of the crypto industry and understanding client needs. It offers significant opportunities for career advancement, potentially leading to roles in growth, sales, operations management, or heading the customer success team.
+The ideal candidate for this role should be highly attentive to clients' needs, well-organized, and possess systematic thinking skills to identify the root causes of client issues and effectively communicate these to the relevant units. Proficiency in English is essential to ensure clear and effective communication. This position is perfect for individuals who thrive in a fast-paced, wartime culture environment and are committed to enhancing customer satisfaction and loyalty.
+
+Sales Jobs jobs
+
+
+
+
+
+
+
+Apply via t.me/evolveordiejobot
+
+
+
+"Torture to greatness as we believe in you. Never give up."
+
+These roles are perfect for those who are passionate about technology and committed to excelling beyond expectations to enhance client value and team performance.
+
+We offer a rigorous, growth-centric remote work environment, embodying the NVIDIA CEO’s principle of "Torture to greatness as we believe in you. Never give up."
+
+https://youtu.be/o24vHm1AaHg
+
+Learn our culture>
+
+Why to join LATOKEN?
+
+Screenshot 2024-06-01 at 17.19.38.png
+

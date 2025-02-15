@@ -1,0 +1,125 @@
+My interest in startups was sparked when I discovered that Stanford alumnus Maxim Faldin had launched Wikimart, Russia's equivalent to Amazon. In 2010, I was captivated by his blog, where he envisioned how tech entrepreneurs could shape the future. However, a decade later, I learned that Maxim had declared personal bankruptcy, with a debt of approximately $3 million, while Wikimart had lost around $83 million in investments.
+
+It's important to note that only about one in 10,000 startups make it to an IPO. Statistically, it's far more likely that you'll hear about my bankruptcy than news of my team and I building a unicorn. However, we believe we are outliers due to our culture of hitting sequential targets towards a significant mission. This is why you're reading this piece on our wartime culture deck, one of the most detailed in the world.
+
+latoken culture.png
+
+
+
+Don't misunderstand me. Changing the world is a challenging endeavor, and some people are born to attempt it. They understand that  Comfort is Suicide. . Maxim, despite his setbacks, changed the world by paving the way for people like you and me with his efforts. He could still leverage his experience to make a significant impact next time.
+
+So, where are the other startups that don't make it to IPO? They're in the "Death Valley."
+
+The "Death Valley" is a self-reinforcing decline in the probability of achieving product-market-timing fit. This decline is due to a decrease in effort to make critical hits as the team wastes energy and sees a lack of traction.
+
+If a jaguar chases an antelope several times and fails to catch it, she may run out of energy for the next chase. Each subsequent chase with less energy means a lower probability of success to recharge energy. At some point, the jaguar enters her death valley, where death is imminent. The jaguar will die from hunger.
+
+San Francisco is full of homeless entrepreneurs - jaguars who ventured into the Death Valley.
+
+This self-reinforcing process begins with a lack of vision of the result, leading to inaccurate performance evaluation, declining performance standards, and the emergence of free riders.
+
+Free riders will reinforce the blurring of the vision and results to benefit from the principal-agent problem (agents increase the asymmetry of information to cheat principals). If a coalition of agents is stronger than principals, a turnaround is impossible.
+
+Agents avoid performance transparency.
+
+Vision of the result means extra costs which agents prefer to avoid:
+
+* The effort to make the result clear (would you write a Who/What Why Story if you can do less effort by writing a few bullets?)
+* The painful responsibility for the result (recognizing that what you do is useless).
+
+Agents feel resistance to do extra effort for clarity as it means responsibility. If I do not see where to go, then I am not responsible. I am just doing something somebody said and also doing what I want to do at the moment, whether it is needed for clients or not.
+
+What do agents want? Higher salary and titles, recognition, and influence to protect the above for less responsibility and effort.
+
+Agents optimize the Return On Investment of their effort to maximize output as measured by their above utility function unlinked from clients and company.
+
+Principals have different variables in their utility function: Principals grow the number of successful clients and stock options value.
+
+ And they invest full responsibility and effort to achieve such goals of life. They put clients first, ego last.
+
+The agent will feel demotivated if they receive candid feedback about the lack of transparency of their impact on clients' success. Transparency and impact on clients are not in their utility function. They need recognition and promotion. Their effort is about team destructive self-educating, covering other teammates, and lowering standards to consolidate the political support base of other agents.
+
+The line is crossed if the fake effort is rewarded.
+
+The line to the valley was already crossed when one of the sportsmen who faked his effort to row in one season is with the team in the next season. This is likely to mean that teammates did not report a free rider as they decided to cheat and cover each other in the next season. Thus, the coach will be less likely to detect and punish this pattern. Cheating will become a Nash stable strategy as it gives an immediate advantage over a full effort strategy.
+
+Professional sportsmen do not fake effort in the Ringelmann rope polling experiment, because the coach knows each game if they are losing and get rid of free riders fast.
+
+If the team and coach have a blurred vision of the result and cannot measure performance - all of their work is likely to be cheating from the very beginning. Even if they believed that they were hardworking, they were hard working to learn politics.
+
+image.png
+
+Is Maxim desperate here to get rid of agents collected on scaling before building the principals’ culture?
+
+
+Checklist your survival machine. A startup is a survival machine designed to spot innovation to punch through competition with legacy companies.
+
+Is the computational power of your machine growing or declining? Is it capable of overcoming a stock bubble burst or a civil war or a pandemic? Is it producing diamonds out of star blast pressure or dust?
+
+Here is a checklist of the Death Valley risk:
+
+1. Are there verifiable deliveries in Monthly and Weekly commitments?
+  1. Can any of the product teammates tell which hypothesis they test this sprint?
+  2. Which number will prove or disapprove the hypothesis?
+  3. Why was this hypothesis prioritized over dozens of other hypotheses?
+  4. How does her task help to verify the hypothesis?
+2. Is the performance of teammates real-time transparent and they are accountable?
+  1. Can most of your team tell last week's performance numbers of most of the other units?
+  2. Can most of your teammates name their personal key performance numbers change over last week?
+  3. Do those who leave the company have the worst performing numbers, and those who perform stay?
+  4. Do your teammates question teammates with weak numbers or enjoy declining standards?
+3. Do teammates challenge each other to perform?
+  1. If a person tells vague or misleading information, is he immediately questioned by teammates?
+  2. Do you hear negative feedback in public and conflicts between colleagues (or is there backstabbing)?
+  3. Do teammates stop and report backstabbing (or tacitly collude against supervisors and the entire team)?
+  4. Do teammates accept feedback (or prefer to defend themselves with excuses)?
+  5. Can most of the teammates tell the founders the estimated value of their stock options?
+  6. Is there a competition between champions in their profession to get on the last seat in the rocket?
+
+Are you confident to check mark all of the above while you have a lack of exponential word of mouth growth?
+
+Pass the quiz:
+
+https://quizgecko.com/quiz/the-rise-and-fall-of-wikimart-NGZ5GO
+
+Then learn from upcoming star blast pressure or die in the valley.
+
+
+
+Add a Topic
+
+false Show authors
+
+true Show and sort by vote count
+
+Idea	Notes & Replies	Vote if correct
+Only 1 out of 10 000 startups grow to IPO		model
+Death Valley is a self enforcing decline in probability to make critical hits		model
+This self enforcing process starts mostly from spending too much time to make targets clear		model
+Lack of vision of the result means lack of clarity what is performance		model
+Lack of clarity of performance help principals to flourish		model
+ Free Rider does not highlight her high performance		model
+Agent maximizes value for client		model
+Critical hit is improbable if aim is blurred		model
+Principals blur performance		model
+Principals challenge teammates to make stories grandma clear		model
+Agents are eager to know which product hypothesis do they test with their tasks		model
+Principal maximizes her salary and value of CV while undermining stocks options value		model
+Stocks options are less important than salary for principals		model
+Principals are brutally candid and open to give feedback		model
+Teammates should not embarrass each others with questions on their performance		model
+You know how your tasks help to verify product hypothesys		model
+You prefer growth of stock options value to salary		model
+Those who leave LATOKEN have the worst performing numbers, and those who perform stay		model
+Target value of your stock option is 10-1000x of your 5 year labour market salary		model
+Performance should match reward		model
+Diamonds are born in star blast pressure		model
+		model
+
+
+
+
+Focus on The Critical Hit
+
+Report Free Riding
+

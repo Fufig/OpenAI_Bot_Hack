@@ -1,0 +1,112 @@
+Русская версия: Правила Скрама
+
+LATOKEN Scrum Rules
+
+
+
+Standups are assaults on impediments, targeting critical hits modeled by Stories and Snippets that connect projects into the Model of the Backlog. Standups and grooming must recheck and reinforce these rules to ensure projects reinforce each other and critical tasks execute the modeled vision.
+
+
+
+
+1. Grooming to Model
+
+Structure: Projects and tasks must be MECE Pyramid grouped. Add new tasks to relevant parent projects to ensure the integrity of the backlog model and clarity of the context to the doer.
+
+Snippets: Detail projects and tasks to show how they connect into a self-reinforcing model.
+
+Ownership: Everyone must grow to own a significant project which makes a big sense as they see how it reinforce the entire model (vision).
+
+
+
+2. Task/Project Definitions
+
+→ verifiable naming rechecked by the story and detailed by vision.
+
+Verifiable Naming: Task name must make it clear how to verify if task is done or not.   Examples: “Show Score in Profile” – Verifiable as it is easy to check if the score is shown or not. “Seamless hiring process automation” – Not verifiable as judgement on the adjective “seamless” is vague and subgective.
+
+Task NAME = WHAT in the Story format Who needs WHAT for Why.
+
+Vision: Larger projects must outline the user journey step-by-step in a novel style.
+
+ToDos: Break tasks into 1–2 hour superconcrete actionable subtasks.
+
+Supportive Materials: Attach screenshots, links, and resources to ensure clarity.
+
+
+
+3. Tasks must Focus on The Critical Hit
+
+Tasks must laserfocus sufficient effort to solve micro-problems unlocking significant business value. Modelling the tasks into the backlog model is essential to figure out which task enables many other projects to release a decent value.
+
+
+
+
+4. Execution: Demo or Die
+
+ Screenshot 2025-01-10 at 10.54.11 PM.png
+
+Monthly/Weekly: Add tasks from the backlog to your Monthly or Weekly and deliver to prod ready for demo. Demo in prod or Die means you leave no room for excuses; instead, you must get out of comfort to figure out how to create value.
+
+Reports: Include key metrics linking your tasks to business value. Highlight blockers.
+
+
+
+Daily Standups: Assault on blockers
+
+Share Screen: All participants must share screens with yesterday and today tasks added to a Standup project, so it is clear how many hours spend on each task in work and what is the progress.
+
+Report:
+
+1. What did I do yesterday?
+
+2. What do I plan to do today?
+
+3. What are the blockers?
+
+CheckFix Reports: Post before standups to prioritize critical issues.
+
+If the task is unclear or breaches the rules - request to improve loudly! Silence is a tacit collusion to undermine the rules - even worse than the mistake itself.
+
+
+
+6. Cultural Reinforcements
+
+
+
+Make Accountable: Mistakes or bugs must be fixed ASAP by the person who created the bug - demand it!
+
+Punish Excuse-seeking: Point on any attempts to self-excuse (eg. “I do not show a demo as someone did not pull my code to prod”,  your reaction: “So you choose to seek excuse, instead of chasing to pull to prod or escalating to team-wide breakfast.”).
+
+Hiding mistakes is crime: Its starts from "spinning" - hiding information, rapidly growing to habit to spread fakes to mislead entire team into beliefs paralyzing any progress.
+
+No Task Jumping:  Insist to get a task done before taking another. Jumping is frequently used to avoid an effort and accountability needed for actual delivery, while creating a sense of lots of (fake)work done.
+
+Test as a user: Get to prod and try, emphathize to clients and help him to achieve success without friction.
+
+Onboard intensively to these rules: Resist the temptation to weaponize newcomers to weaken the rules. Be exceptionally demanding from day one.
+
+
+
+
+There will be pressures to break these rules to serve individual interests, but discipline is essential to keep everyone aligned and transparent. Without this, freeriding and excuse-seeking will prevail, eroding our culture to the point where our children might be better off growing up in a disciplined Chinese orphanage to learn a winning culture. Make the uncomfortable strategy to step out of your comfort zone, take full responsibility, grow, and deliver results the winning one!
+
+
+
+
+
+МУТНЫЕ ЗАДАЧИ = УВОЛЬНЯЕМ
+
+—
+
+Jeff Sutherland, author of  Scrum:
+
+
+
+“Planning for Vision and visibility of your progress is everything; plans are worthless.”
+
+https://youtu.be/s4thQcgLCqk?t=170
+Yes, he needed to see how his friend was shot by a missile to figure out the Scrum Rules and avoid his fate. Imminent threat to existence is the most innovative force.
+
+
+

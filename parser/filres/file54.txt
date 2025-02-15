@@ -1,0 +1,36 @@
+  12:30 PM
+
+Constructive conflict for Committed decisions, Accountability and Results. Today’s Pitching team dispute if we should put investors manually both in Airtable and Strapi resulted in a decision to remove Airtable as a burden. While parsed data should be uploaded to Strapi directly. A CRM will be implemented in the future and be connected with Strapi (or other platform solution). The conflict resulted in the decision which teammates want to commit to. That is a classic example of productive conflict from top management book Five Dysfunctions of a Team. Fear of such conflicts results in mediocre decisions, Lack of Commitment, Lack of Accountability and Results.
+
+PS. Beware that the book is criticised for lack of robust data:
+
+“For example, when the trust level among team members is low, Lencioni recommends that leaders put them through a series of personal disclosures. However, there is little likelihood that these activities can build trust in dysfunctional work teams. According to Katzenbach and Smith, the only effective method for teams to build trust and cohesion is to do real work,[6]
+
+Performance is key to creating teams. A company with “high performance standards” is likelier to create high-performance teams than a company that simply teaches teamwork…. Teams function best when they can depend on their leaders to set clear standards and create dependable, supportive processes.
+
+ Jon R. Katzenbach, McKinsey 1993
+
+That is why we demand performance and conflicts to build trust rather than worshiping on fake team work and  polite rituals. #nakedmanagement
+
+Put the principles from paper to the muscles.
+
+Screenshot 2020-08-10 at 11.58.28.png
+
+
+
+Learnings	Done 2	Done	Author	Upvoters	Upvotes
+Trust means people make problems transparent	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+Trust means people make problems transparent	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+Trust means people make problems transparent	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+Trust is a result of high performance standards and dependable supportive processes 	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+Constructive conflict is needed to figure out the decision and goals team will commit to achieve	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+Constructive conflict is needed to figure out the decision and goals team will commit to achieve	model	false		Anton Kalashnikov,Saida Sarsenbekova	2
+If team does not commit, there will be avoidance of accountability and transparency	model	false	Valentin Preobrazhenskiy	Anton Kalashnikov,Saida Sarsenbekova,Vadim Gagin,Seymur Abiev	4
+If team does not commit, there will be avoidance of accountability and transparency	model	false	Valentin Preobrazhenskiy	Anton Kalashnikov,Saida Sarsenbekova,Vadim Gagin,Seymur Abiev	4
+
+
+
+
+The Shocking Rules
+
+The Principles: Olympics of Freedom and Responsibility to Build the Future
