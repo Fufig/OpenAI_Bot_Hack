@@ -1,3 +1,3 @@
-# Latoken_Hack
+# Bot_Hack
 
 Документации не будет :(
